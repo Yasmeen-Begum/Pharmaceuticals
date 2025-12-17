@@ -1,6 +1,5 @@
 ---
 title: Pharmaceutical Intelligence Platform
-emoji: 🧬
 colorFrom: blue
 colorTo: purple
 sdk: gradio
@@ -10,7 +9,7 @@ pinned: false
 license: mit
 ---
 
-# 🧬 Pharmaceutical Intelligence Platform
+# Pharmaceutical Intelligence Platform
 
 **Agentic AI Solution for Pharmaceutical Research and Portfolio Planning**
 
@@ -18,12 +17,12 @@ This platform uses AI agents to analyze multiple data sources and provide compre
 
 ## Features
 
-- 📊 **Market Intelligence**: IQVIA data analysis
-- 🌍 **Trade Analysis**: EXIM data insights
-- 📜 **Patent Landscapes**: USPTO patent analysis
-- 🔬 **Clinical Trials**: ClinicalTrials.gov data
-- 📄 **Internal Documents**: PDF document analysis
-- 🌐 **Web Intelligence**: Real-time web research
+- **Market Intelligence**: IQVIA data analysis
+- **Trade Analysis**: EXIM data insights
+- **Patent Landscapes**: USPTO patent analysis
+- **Clinical Trials**: ClinicalTrials.gov data
+- **Internal Documents**: PDF document analysis
+- **Web Intelligence**: Real-time web research
 
 ## How to Use
 
