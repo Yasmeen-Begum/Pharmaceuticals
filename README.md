@@ -87,6 +87,7 @@ pharmaceutical-intelligence-platform/
 │
 
 └── .gradio/                  ◄─── Gradio Configuration
+  
     └── certificate.pem       ◄─── SSL Certificate
 
 
@@ -120,4 +121,5 @@ See `requirements.txt` for the complete list of dependencies.
 
 
 MIT License
+
 
