@@ -1,0 +1,14 @@
+gradio>=4.0.0
+langgraph
+langchain
+langchain-community
+langchain-openai
+requests
+pandas
+numpy
+python-dotenv
+PyPDF2
+reportlab
+matplotlib
+seaborn
+plotly
