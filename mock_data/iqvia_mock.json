@@ -1,0 +1,50 @@
+{
+  "respiratory": {
+    "market_size_millions_usd": 12500,
+    "growth_rate_cagr_percent": 8.5,
+    "competitors": ["GSK", "AstraZeneca", "Novartis", "Pfizer"],
+    "therapy_area": "Respiratory",
+    "market_trend": "growing",
+    "volume_shifts": {
+      "india": "+15%",
+      "china": "+12%",
+      "usa": "+8%"
+    },
+    "geographic_distribution": {
+      "india": 25,
+      "china": 20,
+      "usa": 30,
+      "europe": 15,
+      "rest_of_world": 10
+    }
+  },
+  "metformin": {
+    "market_size_millions_usd": 3500,
+    "growth_rate_cagr_percent": 5.2,
+    "competitors": ["Merck", "Teva", "Mylan", "Sun Pharma"],
+    "therapy_area": "Diabetes",
+    "market_trend": "stable"
+  },
+  "cardiovascular": {
+    "market_size_millions_usd": 18500,
+    "growth_rate_cagr_percent": 6.8,
+    "competitors": ["Pfizer", "Novartis", "AstraZeneca", "Bayer"],
+    "therapy_area": "Cardiovascular",
+    "market_trend": "growing"
+  },
+  "oncology": {
+    "market_size_millions_usd": 25000,
+    "growth_rate_cagr_percent": 12.5,
+    "competitors": ["Roche", "Merck", "Bristol-Myers Squibb", "Pfizer"],
+    "therapy_area": "Oncology",
+    "market_trend": "rapidly_growing"
+  },
+  "diabetes": {
+    "market_size_millions_usd": 4200,
+    "growth_rate_cagr_percent": 7.3,
+    "competitors": ["Novo Nordisk", "Sanofi", "Eli Lilly", "Merck"],
+    "therapy_area": "Diabetes",
+    "market_trend": "growing"
+  }
+}
+

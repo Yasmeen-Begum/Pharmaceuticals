@@ -1,0 +1,51 @@
+{
+  "respiratory": {
+    "active_patents": [
+      {"patent_number": "US12345678", "title": "Novel bronchodilator formulation", "expiry": "2028-05-15"},
+      {"patent_number": "US87654321", "title": "Inhalation device for asthma", "expiry": "2029-11-20"}
+    ],
+    "patent_expiry_timeline": [
+      {"patent_number": "US11111111", "expiry_date": "2026-03-10", "molecule": "Albuterol"},
+      {"patent_number": "US22222222", "expiry_date": "2027-08-25", "molecule": "Salmeterol"}
+    ],
+    "freedom_to_operate": "restricted",
+    "fto_risks": ["US12345678", "US87654321"],
+    "innovation_trends": ["Combination therapies", "Extended-release formulations"],
+    "key_patents": ["US12345678", "US87654321"],
+    "competitive_filings": {
+      "2024": 45,
+      "2023": 38,
+      "2022": 32
+    }
+  },
+  "metformin": {
+    "active_patents": [],
+    "patent_expiry_timeline": [
+      {"patent_number": "US33333333", "expiry_date": "2020-01-01", "molecule": "Metformin", "status": "expired"}
+    ],
+    "freedom_to_operate": "clear",
+    "fto_risks": [],
+    "innovation_trends": ["Extended-release", "Combination products"],
+    "key_patents": [],
+    "competitive_filings": {
+      "2024": 12,
+      "2023": 15,
+      "2022": 18
+    }
+  },
+  "statin": {
+    "active_patents": [
+      {"patent_number": "US44444444", "title": "Atorvastatin formulation", "expiry": "2025-12-31"},
+      {"patent_number": "US55555555", "title": "Rosuvastatin combination", "expiry": "2026-06-30"}
+    ],
+    "patent_expiry_timeline": [
+      {"patent_number": "US44444444", "expiry_date": "2025-12-31", "molecule": "Atorvastatin"},
+      {"patent_number": "US55555555", "expiry_date": "2026-06-30", "molecule": "Rosuvastatin"}
+    ],
+    "freedom_to_operate": "restricted",
+    "fto_risks": ["US44444444"],
+    "innovation_trends": ["Fixed-dose combinations", "Novel delivery systems"],
+    "key_patents": ["US44444444", "US55555555"]
+  }
+}
+

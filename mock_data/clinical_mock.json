@@ -1,0 +1,53 @@
+{
+  "respiratory": {
+    "ongoing_trials": [
+      {"trial_id": "NCT12345678", "title": "Novel bronchodilator for COPD", "phase": "Phase 3", "sponsor": "GSK"},
+      {"trial_id": "NCT87654321", "title": "Asthma combination therapy", "phase": "Phase 2", "sponsor": "AstraZeneca"}
+    ],
+    "completed_trials": [
+      {"trial_id": "NCT11111111", "title": "Inhalation device study", "status": "Completed", "sponsor": "Novartis"}
+    ],
+    "sponsors": ["GSK", "AstraZeneca", "Novartis", "Pfizer"],
+    "trial_phases": {
+      "phase_1": 5,
+      "phase_2": 12,
+      "phase_3": 8,
+      "phase_4": 3
+    },
+    "completion_dates": ["2025-06-30", "2025-12-31", "2026-03-15"],
+    "trial_status": "active",
+    "key_trials": ["NCT12345678", "NCT87654321"]
+  },
+  "diabetes": {
+    "ongoing_trials": [
+      {"trial_id": "NCT22222222", "title": "Metformin for cancer prevention", "phase": "Phase 3", "sponsor": "Merck"},
+      {"trial_id": "NCT33333333", "title": "Extended-release metformin", "phase": "Phase 2", "sponsor": "Teva"}
+    ],
+    "completed_trials": [],
+    "sponsors": ["Merck", "Teva", "Novo Nordisk", "Sanofi"],
+    "trial_phases": {
+      "phase_1": 3,
+      "phase_2": 10,
+      "phase_3": 6,
+      "phase_4": 2
+    },
+    "completion_dates": ["2025-09-30", "2026-01-15"],
+    "trial_status": "active",
+    "key_trials": ["NCT22222222", "NCT33333333"]
+  },
+  "metformin": {
+    "ongoing_trials": [
+      {"trial_id": "NCT44444444", "title": "Metformin repurposing for cancer", "phase": "Phase 3", "sponsor": "Merck"},
+      {"trial_id": "NCT55555555", "title": "Metformin in polycystic ovary syndrome", "phase": "Phase 2", "sponsor": "Teva"}
+    ],
+    "sponsors": ["Merck", "Teva", "Mylan"],
+    "trial_phases": {
+      "phase_1": 2,
+      "phase_2": 8,
+      "phase_3": 4,
+      "phase_4": 1
+    },
+    "trial_status": "active"
+  }
+}
+

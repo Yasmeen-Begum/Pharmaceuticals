@@ -1,0 +1,71 @@
+{
+  "respiratory": {
+    "guidelines": [
+      "Global Initiative for Asthma (GINA) 2024 Guidelines",
+      "COPD Treatment Guidelines - ATS/ERS 2024",
+      "Respiratory Disease Management Protocols - WHO"
+    ],
+    "publications": [
+      "Recent study: Novel bronchodilator efficacy in severe asthma",
+      "Review article: Combination therapy in COPD management",
+      "Meta-analysis: Long-acting beta-agonists safety profile"
+    ],
+    "news": [
+      "FDA approves new respiratory drug for severe asthma",
+      "Breakthrough in COPD treatment shows promise",
+      "India launches respiratory health initiative"
+    ],
+    "forums": [
+      "Patient discussion: Managing asthma symptoms",
+      "Healthcare provider insights: COPD treatment challenges",
+      "Real-world evidence: Inhaler device preferences"
+    ],
+    "real_world_evidence": [
+      "Post-marketing surveillance data on bronchodilators",
+      "Patient-reported outcomes in respiratory therapy"
+    ]
+  },
+  "metformin": {
+    "guidelines": [
+      "ADA Diabetes Care Guidelines 2024",
+      "Metformin Use in Type 2 Diabetes - Clinical Practice",
+      "Metformin Repurposing Guidelines for Cancer"
+    ],
+    "publications": [
+      "Recent study: Metformin efficacy in cancer prevention",
+      "Review article: Metformin mechanism of action",
+      "Clinical trial: Extended-release metformin formulation"
+    ],
+    "news": [
+      "New research on metformin's anti-cancer properties",
+      "Metformin combination therapy shows promise",
+      "Generic metformin availability increases"
+    ],
+    "forums": [
+      "Patient discussion: Metformin side effects management",
+      "Healthcare provider insights: Metformin dosing strategies"
+    ]
+  },
+  "diabetes": {
+    "guidelines": [
+      "ADA Standards of Medical Care in Diabetes 2024",
+      "Type 2 Diabetes Management Guidelines",
+      "Diabetes Treatment Algorithms - International"
+    ],
+    "publications": [
+      "Recent study: Novel diabetes treatment approaches",
+      "Review article: Diabetes drug combinations",
+      "Meta-analysis: Diabetes prevention strategies"
+    ],
+    "news": [
+      "New diabetes drug approved by FDA",
+      "Diabetes treatment breakthrough announced",
+      "Global diabetes prevalence continues to rise"
+    ],
+    "forums": [
+      "Patient discussion: Diabetes management tips",
+      "Healthcare provider insights: Diabetes treatment options"
+    ]
+  }
+}
+

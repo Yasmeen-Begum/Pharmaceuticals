@@ -1,0 +1,44 @@
+{
+  "paracetamol": {
+    "export_volume_kg": 150000,
+    "import_volume_kg": 25000,
+    "net_trade_balance": 125000,
+    "top_export_destinations": ["USA", "UK", "Germany", "France", "Australia"],
+    "top_import_sources": ["China", "South Korea"],
+    "trade_trend": "growing",
+    "api_availability": "high",
+    "formulation_trade": {
+      "tablets": 80000,
+      "syrup": 45000,
+      "injections": 25000
+    }
+  },
+  "metformin": {
+    "export_volume_kg": 85000,
+    "import_volume_kg": 12000,
+    "net_trade_balance": 73000,
+    "top_export_destinations": ["USA", "Brazil", "Mexico"],
+    "top_import_sources": ["China"],
+    "trade_trend": "stable",
+    "api_availability": "high"
+  },
+  "aspirin": {
+    "export_volume_kg": 200000,
+    "import_volume_kg": 15000,
+    "net_trade_balance": 185000,
+    "top_export_destinations": ["USA", "UK", "Canada", "Japan"],
+    "top_import_sources": ["China", "Germany"],
+    "trade_trend": "stable",
+    "api_availability": "very_high"
+  },
+  "ibuprofen": {
+    "export_volume_kg": 95000,
+    "import_volume_kg": 18000,
+    "net_trade_balance": 77000,
+    "top_export_destinations": ["USA", "UK", "Germany"],
+    "top_import_sources": ["China"],
+    "trade_trend": "growing",
+    "api_availability": "high"
+  }
+}
+
